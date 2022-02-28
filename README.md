@@ -1,3 +1,12 @@
+# 概要
+
+技術的な説明は、以下の記事で解説いたしました。
+
+【 Next.js 】Static Generation + useSWR で、データ更新、最新のデータ表示を可能にする。
+https://zenn.dev/purenium/articles/nextjs-sg-use-swr-strong-consistency
+
+----
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
