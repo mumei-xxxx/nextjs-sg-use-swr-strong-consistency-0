@@ -1,6 +1,6 @@
 # 概要
 
-技術的な説明は、以下の記事で解説いたしました。
+以下の記事で解説しております。
 
 【 Next.js 】Static Generation + useSWR で、データ更新、最新のデータ表示を可能にする。
 https://zenn.dev/purenium/articles/nextjs-sg-use-swr-strong-consistency
